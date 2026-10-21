@@ -98,10 +98,9 @@ Exploring backend systems, database internals, search engines, automation, and i
 ## `03 // TECHNOLOGY MATRIX`
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Mokshsaini7/Mokshsaini7/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,fastapi,postgres,mysql,firebase,html,css,js,git,github,vscode&theme=dark&perline=7" alt="Technology stack"/>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Python-00D4FF?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-7C3AED?style=flat-square&logo=openjdk&logoColor=white"/>
